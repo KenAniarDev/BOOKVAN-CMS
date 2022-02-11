@@ -46,7 +46,7 @@ export const mainListItems = (
         <ListItemText primary='Van Companies' />
       </ListItemButton>
     </CustomLink>
-    <CustomLink to='vans'>
+    <CustomLink to='/vans'>
       <ListItemButton>
         <ListItemIcon>
           <LayersIcon />
